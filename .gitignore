@@ -1,1 +1,4 @@
 /.idea/
+
+/dotenv-test/node_modules/
+/etcd-test/node_modules/
